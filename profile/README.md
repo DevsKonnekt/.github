@@ -44,12 +44,15 @@ feedback,
 and support for their learning,
 projects,
 or careers. This feature also helps developers to find and guide others who are just starting out or need help.
+- **GitHub snippets integration**: This feature allows developers to easily integrate code snippets from their GitHub repositories into their projects, profiles, or messages on the platform. This feature also supports syntax highlighting, formatting, and editing of the code snippets. This feature helps developers to share their work, reuse their code, and collaborate with others.
+- **Developer rating**: This feature allows developers to rate themselves and others on various aspects of software development, such as skills, knowledge, experience, quality, creativity, or professionalism. This feature helps developers to assess their strengths and weaknesses, identify areas for improvement, and showcase their expertise.
+- **Feed based on interests**: This feature allows developers to customize their feed on the platform based on their interests, preferences, and goals. This feature helps developers to discover relevant and engaging content, such as articles, videos, podcasts, or projects, that match their interests. This feature also helps developers to follow and interact with other developers who share their interests.
+- **Forum**: This feature allows developers to create and join discussions on various topics related to software development. This feature helps developers to ask questions, share opinions, provide answers, or seek help from other developers on the platform. This feature also helps developers to learn from each other, exchange ideas, and build relationships.
+- **Crowdfunding**: This feature allows developers to raise funds for their projects from other developers or supporters on the platform. This feature helps developers to validate their ideas, gain feedback, and secure resources for their projects. This feature also helps developers to support and contribute to other projects that they find interesting or useful.
 
 ## Getting Started
 
-To get started with DevsKonnekt,
-
-you need to:
+To get started with DevsKonnekt, you need to:
 
 1. Clone this repository to your local machine using `git clone https://github.com/DevsKonnekt/DevsKonnekt.git`.
 2. Install the required dependencies using `npm install`.
