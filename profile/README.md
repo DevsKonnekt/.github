@@ -14,3 +14,7 @@ DevsKonnekt has one repository that contain the source code, documentation, and 
 ## Contact
 
 If you have any questions, suggestions, or feedback, please feel free to contact us at devskonnekt@gmail.com. We would love to hear from you and help you with any issues you may have. You can also follow us on Twitter [@DevsKonnekt] for the latest updates and news about DevsKonnekt. Thank you for your interest and support! 😊
+
+## Members
+1. [Pritchard Mambambo](https://github.com/SirSanctified)
+2. 
