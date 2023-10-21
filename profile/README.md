@@ -17,4 +17,4 @@ If you have any questions, suggestions, or feedback, please feel free to contact
 
 ## Members
 1. [Pritchard Mambambo](https://github.com/SirSanctified)
-2. 
+2. [Elvis Kibet](https://github.com/vinsky001)
