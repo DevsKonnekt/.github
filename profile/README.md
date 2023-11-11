@@ -20,3 +20,6 @@ If you have any questions, suggestions, or feedback, please feel free to contact
 2. [Elvis Kibet](https://github.com/vinsky001)
 3. [Thembelisa Mavhiza](https://github.com/lisaht)
 4. [Zivai Emmanuel Karenga](https://github.com/zek-codes)
+5. [Ruvimbo Bumhudza](https://github.com/RuvimboRue)
+6. [Tinashe D. Masiya](https://github.com/NasheSaint)
+7. [Maxwell Punzo](https://github.com/maxypunzo)
